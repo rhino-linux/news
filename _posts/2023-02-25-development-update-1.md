@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The state of Rhino Linux. Development Update #1"
-date:   2023-07-12 12:01:42 +0100
+date:   2023-02-25 12:01:42 +0100
 author: http.llamaz
 ---
 
