@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Beta, PinePhone (Pro) & more!"
-date:   2023-07-26 10:48:00 +0100
+date:   2023-04-03 10:48:00 +0100
 author: ajstrongdev
 ---
 
