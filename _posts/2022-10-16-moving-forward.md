@@ -21,4 +21,4 @@ Ubuntu as a rolling release is still at the very core of our concept. Rhino Linu
 
 To everyone who has supported Rolling Rhino Remix thusfar, thank you, and I hope you will continue to support us as we move to the next chapter of this distribution.
 
-• 2022.11.01 will be the last disk image that we produce of Rolling Rhino Remix, as we prepare for the development of Rhino Linux. Rolling Rhino Remix as an operating system will continue to be maintained for 3 months after the release of Rhino Linux.
+* 2022.11.01 will be the last disk image that we produce of Rolling Rhino Remix, as we prepare for the development of Rhino Linux. Rolling Rhino Remix as an operating system will continue to be maintained for 3 months after the release of Rhino Linux.

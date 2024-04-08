@@ -9,7 +9,7 @@ Rhino Linux has now been in active development since October 2022. The core visi
 
 ~~Unfortunately, the original goal of releasing the distribution in March 2023 is not attainable. We underestimated the scale of development, and have since scaled up by adding new contributors to our development team. Our new aim is to try to release in Summer 2023, however we cannot guarantee that this will be successful. Rhino Linux is due to officially enter open beta within the next two weeks.~~
 
-• Upon reviewing the development of Rhino Linux, we are set to enter open beta shortly. A release date for March is achievable providing that no major issues are reported during our testing phase. The release date will be set after careful consideration before we enter open beta.
+* Upon reviewing the development of Rhino Linux, we are set to enter open beta shortly. A release date for March is achievable providing that no major issues are reported during our testing phase. The release date will be set after careful consideration before we enter open beta.
 
 # Branding
 
@@ -39,7 +39,7 @@ The installer has gone through a lot of hard work. We utilise Calamares as our d
 
 Originally with Rolling Rhino Remix, the predecessor of Rhino Linux, we released a new disk image monthly. The original idea for Rhino Linux was to do it quarterly, with 4 total disk image releases per year. This is not maintainable for a rolling release distribution as it will need more consistent patches. Rather we will not have a fixed schedule for when we package and distribute a new disk image, this will come as and when critical changes or updates are made to the system and when the time and resources are available.
 
-• Disk image releases will be identified with YEAR.PATCH, an example of this will be 2023.19.
+* Disk image releases will be identified with YEAR.PATCH, an example of this will be 2023.19.
 
 # Thank you
 
